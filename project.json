@@ -1,0 +1,6 @@
+{
+  "slug": "hello-1",
+  "name": "Hello DEVGEN",
+  "ticker": "HELLO",
+  "model": "claude-sonnet-5-5"
+}
